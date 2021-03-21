@@ -1,0 +1,82 @@
+body{
+    background-color: black;
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+.top{
+    background-color: black;
+    
+}
+.infor{
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 50px;
+    
+    
+}
+#quotes{
+    padding:150px;
+}
+.logo{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+    float:left;
+    
+}
+.vmh2{
+    width:40%;
+    height:40%;
+    border-radius: 100%;
+    
+
+    
+}
+.quote{
+    display: flex;
+    padding-top: 20px;
+    font-size: 200%;
+    padding-right: 100px;
+}
+footer{
+    
+    display: flex;
+    flex-direction: column;
+    margin-top: 900px;
+    
+}
+.imgalbum{
+    float: left;
+    display: flex;
+    width:40%;
+    padding-left: 20px;
+    padding-top: 50px;
+    border-radius: 30%;
+}
+q.comment{
+    display: flex;
+    padding-top: 150px;
+    padding-left:20px;
+    font-size: 150%;
+    padding-right: 20px;
+    flex-direction: column;
+    text-align:justify;
+}
+.quotepic{
+    float:right;
+    padding-right: 100px;
+    padding-top: 200px;
+    font-size: 50px;
+    
+}
+#VMH3{
+    
+    padding-bottom: 20px;
+    display: flex;
+    float: left;
+    width:600px;
+    height:800px;
+    padding-left: 80px;
+}
