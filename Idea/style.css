@@ -7,6 +7,9 @@ body{
     background-color: black;
     
 }
+.Album{
+    display: flex;
+}
 .infor{
     height: 200px;
     display: flex;
@@ -16,29 +19,27 @@ body{
     
     
 }
-#quotes{
-    padding:150px;
-}
+
 .logo{
     width: 200px;
     height:200px;
     border-radius: 50%;
     float:left;
+
     
 }
 .vmh2{
     width:40%;
     height:40%;
     border-radius: 100%;
+    padding-right:20px;
     
-
     
 }
 .quote{
     display: flex;
-    padding-top: 20px;
     font-size: 200%;
-    padding-right: 100px;
+    
 }
 footer{
     
@@ -57,7 +58,7 @@ footer{
 }
 q.comment{
     display: flex;
-    padding-top: 150px;
+    padding-top: 100px;
     padding-left:20px;
     font-size: 150%;
     padding-right: 20px;
@@ -66,17 +67,17 @@ q.comment{
 }
 .quotepic{
     float:right;
-    padding-right: 100px;
-    padding-top: 200px;
+    padding-top: 20%;
     font-size: 50px;
-    
+    padding-left:20px;
 }
 #VMH3{
-    
-    padding-bottom: 20px;
-    display: flex;
     float: left;
     width:600px;
     height:800px;
-    padding-left: 80px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.m2{
+    display: flex;
 }
